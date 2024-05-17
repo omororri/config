@@ -2,7 +2,7 @@
 {
     "repository": {
         "name": "config",
-        "subtitle": "debian12 dotconfig files"
+        "subtitle": "debian12 .config files"
     }
 }
 
